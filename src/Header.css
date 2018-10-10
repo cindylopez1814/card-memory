@@ -1,0 +1,7 @@
+header {
+  height: 15vh;
+  display: flex;
+  justify-content: space-between;
+  align-content: center;
+  padding: 2%;
+}
