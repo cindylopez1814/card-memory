@@ -1,4 +1,26 @@
-.cartas{
-  width: 10vh;
-  background-color: aliceblue;
+.carta{
+  height: 25vh;
+  width: 15vw;
+  color: black;
+  margin: 2%;
+}
+
+.portada {
+  width: 15vw;
+  height: 25vh;
+  background-color: chocolate;
+}
+
+.contenido {
+  width: 15vw;
+  height: 25vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  background-color: antiquewhite;
+}
+
+.ReactFlipCard {
+  width: 100%;
+  height: 100%;
 }
